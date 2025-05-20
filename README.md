@@ -1,7 +1,7 @@
 # Candidate Application  
 #### _Submission of Candidate Application for the role of Data Engineer at The Eviction Lab of Princeton University_
 ---
-In order to apply to the Data Engineer role at the Eviction Lab, I am spinning up a concise data pipeline to meet the fourth criteria laid out in the listing.
+In order to apply to the Data Engineer role at the Eviction Lab, I am spinning up a concise data pipeline to meet the fourth criteria laid out in the listing. Please review the google collab script.
 
 # Example DEV Level Data Pipeline: County-Level Evictions and Income Analysis (2010–2023)
 
