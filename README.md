@@ -13,9 +13,9 @@ This project demonstrates a beginner's level of proficiency with a handful of th
 
 Using Python, the Census API and hard copy of the Legal Services Corp, and DuckDB SQL in Google Colab, the project:
 
-✅ Ingests, normalizes, and joins multiple sources of data  
-✅ Aggregates eviction filings to annual levels  
-✅ Enriches data with median income, poverty rate, and population  
-✅ Outputs a clean dataset for analysis and visualization
+- Ingests, normalizes, and joins multiple sources of data  
+- Aggregates eviction filings to annual levels  
+- Enriches data with median income, poverty rate, and population  
+- Outputs a clean dataset for analysis and visualization
 
 The final product enables county-level comparison of eviction trends and economic hardship across all 50 U.S. states and D.C.
